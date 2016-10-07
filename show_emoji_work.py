@@ -4,10 +4,10 @@ import tweepy, time
 
 def authenticate_twitter_handle():
 	#Corresponding information from my Twitter application:
-	CONSUMER_KEY = 'fLmz7gBoJKRWadvJH7iS0Fg4c'
-	CONSUMER_SECRET = 'xV1QWW4HQ0B3uMGZ2A7dQQxl1rwQ7m81DrCOtesUeXOK162EYL'
-	ACCESS_TOKEN = '2909884898-RoNhu9ZKA2h2xoRdDTWmVDxwxmOhOJ7tFEi08va'
-	ACCESS_TOKEN_SECRET = 'k68aPRqMrGhqXCF6tHWVs1sEx0kQuTyIrtq5AN6NZ5g8R'
+	CONSUMER_KEY = '**************************'
+	CONSUMER_SECRET = '************************'
+	ACCESS_TOKEN = '***************************'
+	ACCESS_TOKEN_SECRET = '****************************'
 	auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 	auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 	api = tweepy.API(auth)
