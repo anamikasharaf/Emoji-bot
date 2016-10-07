@@ -1,0 +1,111 @@
+happy, 😀
+cheerful,😀
+grin, 😀
+merry,😀
+joyful,😀
+jovial,😀
+jolly,😀
+gleeful,😀
+pleased,😀
+buoyant,😀
+radiant,😀
+joyous,😀
+sad, 😔
+unhappy,😔
+sorrowful,😔
+dejected,😔
+depressed,😔
+downcast,😔
+miserable,😔
+down,😔
+despondent,😔
+despairing,😔
+glum,😔
+gloomy,😔
+heartbroken, 😔
+tragic,😔
+awful,😔
+sorry,😔
+pitiful,😔
+pathetic,😔
+heartbreaking,😔
+laughing,😂
+chuckle,😂
+cackle, 😂
+giggle, 😂
+titter, 😂
+lol, 😂
+blink, 😉
+blinking, 😉
+sparkle, 😉
+flash, 😉
+glean, 😉
+hungry, 😋
+goofy, 😋
+cool, 😎
+sunglasses, 😎
+chill, 😎
+stylish, 😎
+chic, 😎
+love, 😍
+attachment, 😍
+intimacy, 😍
+endearment, 😍
+beloved, 😍
+sweet,😍
+honey, 😍
+dear, 😍
+dearest, 😍
+darling, 😍
+sweetheart, 😍
+kiss, 😘
+smooch, 😘
+halo, 😇
+angel, 😇
+expressionless, 😐
+deadpan, 😐
+poker, 😐
+smirk, 😏
+leer, 😏
+smug, 😏
+sleep, 😴
+sleepy,😴
+zzz, 😴
+snoring, 😴
+nap, 😴
+doze, 😴
+crazy, 😜
+insane, 😜
+stupid, 😜
+foolish, 😜
+idiotic, 😜
+silly, 😜
+laughable, 😜
+worried, 😟
+anxious, 😟
+troubled, 😟
+concerned, 😟
+upset, 😟
+distressed, 😟
+uneasy, 😟
+agitated, 😟
+nervous, 😟
+edgy, 😟
+jumpy, 😟
+stressed, 😟
+crying, 😭
+weep, 😭
+sob, 😭
+whimper, 😭
+exclaim, 😭
+fear, 😨
+fearful, 😨
+terror, 😨
+horror, 😨
+alarm, 😨
+panic, 😨
+angry, 😡
+mad,😡
+irritated, 😡
+irritating, 😡
+annoyed, 😡
