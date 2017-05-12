@@ -1,3 +1,4 @@
+_author__ = 'anamika.sharaf'
 import pdb	# This is the Python debugger
 import sys
 import tweepy, time
